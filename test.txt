@@ -1,0 +1,3 @@
+real a,b,c,d;
+char e;
+d:=a*(c+b)/e;

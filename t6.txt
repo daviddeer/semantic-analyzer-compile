@@ -1,0 +1,5 @@
+real a,b,c,d;
+int e,f,g;
+bool h;
+a:=c+b/c*d;
+h:=e<f-g.

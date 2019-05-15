@@ -1,0 +1,3 @@
+real a,b;
+int c,d;
+a:=c+d*b/d).
